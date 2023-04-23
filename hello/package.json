@@ -1,8 +1,12 @@
 {
-  "name": "cypress",
+  "name": "hello",
   "version": "1.0.0",
-  "description": "",
+  "description": "To start your Phoenix server:",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
